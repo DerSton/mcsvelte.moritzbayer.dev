@@ -1,3 +1,7 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+@font-face {
+	font-family: ‘McHelvetica’;
+	src: url(helvetica.ttf) format(truetype);
+}
